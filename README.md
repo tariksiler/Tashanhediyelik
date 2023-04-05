@@ -1,1 +1,1 @@
-##[Patika Profilim İçin Tıklayınız](https://app.patika.dev/tariksiler)
+## [Patika Profilim İçin Tıklayınız](https://app.patika.dev/tariksiler)
