@@ -1,0 +1,1 @@
+##[Patika Profilim İçin Tıklayınız](https://app.patika.dev/tariksiler)
